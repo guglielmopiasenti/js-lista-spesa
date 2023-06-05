@@ -1,6 +1,6 @@
 # SHOPPING LIST
 
-Given a shopping list print on the page the lement of the list
+Given a shopping list print on the page the elements of the list
 
 ## Goal
 
